@@ -11,5 +11,4 @@ for x in range(1,m+1):
     x*=3
     for y in range(1,m+1):
         print("Hello")
-
 #time complexity for this equivalent python code snippet is O(n*log(n))
